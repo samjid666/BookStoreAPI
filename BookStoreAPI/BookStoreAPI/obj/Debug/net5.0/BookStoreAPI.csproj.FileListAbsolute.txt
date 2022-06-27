@@ -59,3 +59,11 @@ C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\obj\Debug\net5.0\refint\Book
 C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\obj\Debug\net5.0\BookStoreAPI.pdb
 C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\obj\Debug\net5.0\BookStoreAPI.genruntimeconfig.cache
 C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\obj\Debug\net5.0\ref\BookStoreAPI.dll
+C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\C# Projects\New folder\BookStoreAPI\BookStoreAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
